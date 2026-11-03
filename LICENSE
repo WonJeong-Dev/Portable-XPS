@@ -1,0 +1,31 @@
+Portable XPS Analyzer
+Copyright (c) 2026 WonJeong Yu, KAIST. All rights reserved.
+
+This software and its source code are made publicly accessible for use and
+evaluation only. Subject to the restrictions below, you may:
+
+  - use the hosted application;
+  - download and run the index.html file locally in a web browser;
+  - view the source code for evaluation.
+
+Without the prior written permission of the copyright holder, you may NOT:
+
+  - copy, reproduce, or redistribute the software or any substantial portion
+    of its source code;
+  - modify, adapt, translate, or create derivative works;
+  - incorporate the code, or any part of it, into other software or products,
+    whether commercial or non-commercial.
+
+No license or right, express or implied, is granted except as explicitly
+stated above. All other rights are reserved by the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+For permission requests and inquiries, contact the author (WonJeong Yu, KAIST)
+through this repository.
